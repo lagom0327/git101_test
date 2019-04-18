@@ -1,4 +1,5 @@
 code3
+<<<<<<< HEAD
 sfs
 
 newfeature
@@ -9,3 +10,12 @@ dd
 
 
 
+=======
+
+conflict
+newfeature
+jalksdjfl
+sdfadf
+@@@@@@@@@@@@@@@@@@@
+conflict
+>>>>>>> newfea
